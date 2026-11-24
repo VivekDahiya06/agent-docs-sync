@@ -43,6 +43,10 @@ Put the `agent-docs-sync` folder in `~/.claude/skills/` (all your projects) or i
 
 A git repository, and at least one doc file (`AGENTS.md`, `CLAUDE.md`, `README.md`, …). If a project has no docs, the skill does nothing; it never creates docs you didn't ask for.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 Made by Vivek Dahiya.
